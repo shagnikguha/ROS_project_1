@@ -8,7 +8,7 @@ This project utilizes ROS Noetic, Gazebo, Rviz, and XML to address various chall
 - Launch files for various functionalities, including GMapping, are provided.
 - 2D maps and 3D world data are also included in this folder.
 
-### 2.'m2wr_description' Folder
+### 2. 'm2wr_description' Folder
 - The urdf file in this folder contains the robot's Unified Robot Description Format (URDF) code.
 - Various plugins are integrated to enable the usage of Lidar, Cameras, IMU, and a differential drive.
 - Launch files for Gazebo and Rviz are included, along with custom 3D models.
